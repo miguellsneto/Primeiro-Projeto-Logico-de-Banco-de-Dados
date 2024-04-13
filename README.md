@@ -1,6 +1,7 @@
 # Desafio de Projeto - Primeiro Projeto Lógico de Banco de Dados
 Desafio para explorar a linguagem de consulta de Banco de Dados SQL, a partir da criação do **Esquema Lógico e do Script SQL**, persistindo dados fictícios e manipulando o banco de dados com as queries aprendidas em aula.
 
+
 ### Mapeamento do Esquema ER para Relacional
 Mapear um modelo e-commerce a partir do algoritmo de mapeamento aprendido em aula.
 
